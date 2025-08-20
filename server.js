@@ -5,7 +5,7 @@ const PORT = 5000;
 
 // Default route
 app.get("/", (req, res) => {
-  res.send("🚀 Simple Express Server is running!");
+  res.send("🚀 HEllo Mental!");
 });
 
 // Start server
